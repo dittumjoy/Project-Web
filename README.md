@@ -2,6 +2,8 @@
 
  Its a web version of thought sharing application.
  
+ Heroku URL : https://thoughtstack.herokuapp.com/
+ 
  Prototype URL : https://marvelapp.com/3j9cf06
  
   *-----------*
